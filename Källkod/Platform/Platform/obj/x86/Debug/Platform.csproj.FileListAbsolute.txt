@@ -1,0 +1,7 @@
+c:\users\andersrobelius\documents\visual studio 2012\Projects\Platform\Platform\Platform\bin\x86\Debug\Platform.exe
+c:\users\andersrobelius\documents\visual studio 2012\Projects\Platform\Platform\Platform\bin\x86\Debug\Platform.pdb
+c:\users\andersrobelius\documents\visual studio 2012\Projects\Platform\Platform\Platform\obj\x86\Debug\Platform.csprojResolveAssemblyReference.cache
+c:\users\andersrobelius\documents\visual studio 2012\Projects\Platform\Platform\Platform\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\andersrobelius\documents\visual studio 2012\Projects\Platform\Platform\Platform\obj\x86\Debug\Platform.exe
+c:\users\andersrobelius\documents\visual studio 2012\Projects\Platform\Platform\Platform\obj\x86\Debug\Platform.pdb
+c:\users\andersrobelius\documents\visual studio 2012\Projects\Platform\Platform\Platform\bin\x86\Debug\Content\new_mario_spritesheet.xnb
